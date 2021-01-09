@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/ret/daveDev/MindatScrape/src/main/scala/MineScrape.scala:4:12: object plugin is not a member of package sun[0m
-[0m[[0m[31merror[0m] [0m[0mimport sun.plugin.dom.html.HTMLAnchorElement;[0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
